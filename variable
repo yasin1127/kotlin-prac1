@@ -1,0 +1,12 @@
+fun main()
+{
+    var a: Int= 80
+    var b: String= a.toString()
+    println(b)
+    var c: Double =a.toDouble()
+    println(c)
+    var d: Char = a.toChar()
+    println(d)
+    var e: Float = a.toFloat()
+    println(e)
+}
